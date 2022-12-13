@@ -40,7 +40,7 @@ if (place_meeting(x,y+vsp,oWall))
 y = y + vsp;
 
 //Animation
-if (!place_meeting (x,y+1, oWall))
+if (!place_meeting(x,y+1, oWall))
 {
 	sprite_index = sPlayerJ
 	image_speed = 0;
@@ -55,7 +55,7 @@ else
 	}
 	else
 	{
-		sprite_index = sPlayerW
+		sprite_index = sPlayerW;
 	}
 }
 
