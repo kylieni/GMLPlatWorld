@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWalle",
+  "name": "oWall",
   "spriteId": {
-    "name": "sWalle",
-    "path": "sprites/sWalle/sWalle.yy",
+    "name": "sWall",
+    "path": "sprites/sWall/sWall.yy",
   },
   "solid": false,
   "visible": true,
