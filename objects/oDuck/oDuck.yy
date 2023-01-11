@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPenguin",
+  "name": "oDuck",
   "spriteId": {
-    "name": "sPenguin",
-    "path": "sprites/sPenguin/sPenguin.yy",
+    "name": "sDuck",
+    "path": "sprites/sDuck/sDuck.yy",
   },
   "solid": false,
   "visible": true,
